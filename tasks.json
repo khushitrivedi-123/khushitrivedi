@@ -1,0 +1,12 @@
+[
+    {
+        "task": "complete login page on 14-12-2024",
+        "completed": true
+    },
+    {
+        "task": "buy groceries",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "No due date"
+    }
+]
